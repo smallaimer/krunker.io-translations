@@ -920,7 +920,7 @@ chall.name.dmg Deal {0} damage {1}
 chall.name.bzk Get {0} buzz kills {1}
 chall.name.cc Get {0} close-calls {1}
 chall.name.rk Deal {0} revenge kills {1}
-event.doubleXP 2x Class XP enabled for this match
+event.doubleXP 2x Class XP enabled for this match 
 ranked.join Joined Ranked Match. Abandoning a match will result in a temporary ban
 ranked.progress Game in Progress
 ranked.team Please join a Team
